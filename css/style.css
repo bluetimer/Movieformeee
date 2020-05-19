@@ -10,5 +10,12 @@ body {
 
 footer {
     padding-top: 100px;
-    margin: 50px 0;
+    margin: 50px ;
+}
+
+#results {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 100px;
 }
